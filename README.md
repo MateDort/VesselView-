@@ -21,6 +21,3 @@ Trained on [DRIVE](https://www.kaggle.com/datasets/andrewmvd/drive-digital-retin
 - Frontend: Vanilla HTML/CSS/JS
 - Hosting: GitHub Pages
 
-## Acknowledgements
-
-Built as part of research at [TReNDS Center](https://trendscenter.org), Georgia State University. Inspired by [BrainChop](https://brainchop.org).
