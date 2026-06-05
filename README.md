@@ -70,8 +70,17 @@ Trained on **DRIVE** (Digital Retinal Images for Vessel Extraction) — a standa
 
 ## Results
 
-<!-- Add prediction side-by-side images here -->
-*Visualizations coming soon.*
+### Training Run 1
+
+- **Model:** U-Net + ResNet34
+- **Epochs:** 34 (early stopping at patience=10)
+- **Best val loss:** 0.9848 (epoch 31)
+- **Loss:** Dice + BCE
+
+<!-- Add side-by-side prediction images below -->
+| Image | Ground Truth | Prediction |
+|---|---|---|
+| ![](images/results/run1_image.png) | ![](images/results/run1_gt.png) | ![](images/results/run1_pred.png) |
 
 ---
 
